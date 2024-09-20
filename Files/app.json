@@ -1,0 +1,31 @@
+{
+    "name": "Afnan",
+    "age": 28,
+    "email": "afnan@example.com",
+    "isEmployed": true,
+    "address": {
+      "street": "123 Main St",
+      "city": "Sample City",
+      "state": "CA",
+      "postalCode": "12345"
+    },
+    "skills": [
+      "C#",
+      "WPF",
+      "SQL",
+      "Robot Arm Design"
+    ],
+    "projects": [
+      {
+        "name": "Robot Arm Control",
+        "description": "A project to control a robot arm using WPF and C#.",
+        "status": "In Progress"
+      },
+      {
+        "name": "Employee Database Management",
+        "description": "A C# console application to manage employee records.",
+        "status": "Completed"
+      }
+    ]
+  }
+  
